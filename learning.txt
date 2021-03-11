@@ -1,5 +1,3 @@
-hello,world 
-how are you
-fuck you!
-And I love you
-!
+hello
+mmp
+Creating a new branch is quick AND simple.
